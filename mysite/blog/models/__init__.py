@@ -1,0 +1,1 @@
+from .post import Post # estou informado que outras pastas podem acessar o post
